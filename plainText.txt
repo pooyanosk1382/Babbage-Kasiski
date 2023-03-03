@@ -1,0 +1,17 @@
+One of the most important new features for this edition is the use of Sage for cryptographic
+examples and homework assignments. Sage is an open-source, multiplatform, freeware pack-
+age that implements a very powerful, flexible, and easily learned mathematics and computer
+algebra system. Unlike competing systems (such as Mathematica, Maple, and MATLAB),
+there are no licensing agreements or fees involved. Thus, Sage can be made available on
+computers and networks at school, and students can individually download the software to
+their own personal computers for use at home. Another advantage of using Sage is that
+students learn a powerful, flexible tool that can be used for virtually any mathematical
+application, not just cryptography.
+The use of Sage can make a significant difference to the teaching of the mathematics
+of cryptographic algorithms. This book provides a large number of examples of the use of
+Sage covering many cryptographic concepts in Appendix B.
+Appendix C lists exercises in each of these topic areas to enable the student to gain
+hands-on experience with cryptographic algorithms. This appendix is available to instruc-
+tors at the IRC for this book. Appendix C includes a section on how to download and get
+started with Sage, a section on programming with Sage, and includes exercises that can be
+assigned to students in the following categories:
