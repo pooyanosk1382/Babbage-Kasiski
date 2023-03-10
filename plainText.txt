@@ -1,17 +1,611 @@
-One of the most important new features for this edition is the use of Sage for cryptographic
-examples and homework assignments. Sage is an open-source, multiplatform, freeware pack-
-age that implements a very powerful, flexible, and easily learned mathematics and computer
-algebra system. Unlike competing systems (such as Mathematica, Maple, and MATLAB),
-there are no licensing agreements or fees involved. Thus, Sage can be made available on
-computers and networks at school, and students can individually download the software to
-their own personal computers for use at home. Another advantage of using Sage is that
-students learn a powerful, flexible tool that can be used for virtually any mathematical
-application, not just cryptography.
-The use of Sage can make a significant difference to the teaching of the mathematics
-of cryptographic algorithms. This book provides a large number of examples of the use of
-Sage covering many cryptographic concepts in Appendix B.
-Appendix C lists exercises in each of these topic areas to enable the student to gain
-hands-on experience with cryptographic algorithms. This appendix is available to instruc-
-tors at the IRC for this book. Appendix C includes a section on how to download and get
-started with Sage, a section on programming with Sage, and includes exercises that can be
-assigned to students in the following categories:
+Hello what's up man? how was your day? Do you think that I can do this project?
+hi bro. good thank you. yes, you are a great programmer.
+Lyrics
+Look, I was gonna go easy on you not to hurt your feelings
+But I'm only going to get this one chance (six minutes-, six minutes-)
+Something's wrong, I can feel it (six minutes, Slim Shady, you're on!)
+Just a feeling I've got, like something's about to happen, but I don't know what
+If that means what I think it means, we're in trouble, big trouble
+And if he is as bananas as you say, I'm not taking any chances
+You are just what the doc ordered
+I'm beginnin' to feel like a Rap God, Rap God
+All my people from the front to the back nod, back nod
+Now, who thinks their arms are long enough to slap box, slap box?
+They said I rap like a robot, so call me Rap-bot
+But for me to rap like a computer, it must be in my genes
+I got a laptop in my back pocket
+My pen'll go off when I half-cock it
+Got a fat knot from that rap profit
+Made a livin' and a killin' off it
+Ever since Bill Clinton was still in office
+With Monica Lewinsky feelin' on his nutsack
+I'm an MC still as honest
+But as rude and as indecent as all hell
+Syllables, skill-a-holic (kill 'em all with)
+This flippity dippity-hippity hip-hop
+You don't really wanna get into a pissin' match
+With this rappity brat, packin' a MAC in the back of the Ac'
+Backpack rap crap, yap-yap, yackety-yack
+And at the exact same time, I attempt these lyrical acrobat stunts while I'm practicin' that
+I'll still be able to break a motherfuckin' table
+Over the back of a couple of faggots and crack it in half
+Only realized it was ironic, I was signed to Aftermath after the fact
+How could I not blow? All I do is drop F-bombs
+Feel my wrath of attack
+Rappers are havin' a rough time period, here's a maxi pad
+It's actually disastrously bad for the wack
+While I'm masterfully constructing this masterpièce
+'Cause I'm beginnin' to feel like a Rap God, Rap God
+All my people from the front to the back nod, back nod
+Now, who thinks their arms are long enough to slap box, slap box?
+Let me show you maintainin' this shit ain't that hard, that hard
+Everybody want the key and the secret to rap immortality like Ι have got
+Well, to be truthful the blueprint's
+Simply rage and youthful exuberance
+Everybody loves to root for a nuisance
+Hit the Earth like an asteroid
+Did nothing but shoot for the Moon since (pew!)
+MCs get taken to school with this music
+'Cause I use it as a vehicle to "Bus the rhyme"
+Now I lead a new school full of students
+Me? I'm a product of Rakim
+Lakim Shabazz, 2Pac, N.W.A, Cube, hey Doc, Ren
+Yella, Eazy, thank you, they got Slim
+Inspired enough to one day grow up, blow up and be in a position
+To meet Run-D.M.C., induct them
+Into the motherfuckin' Rock and Roll Hall of Fame
+Even though I'll walk in the church and burst in a ball of flames
+Only Hall of Fame I'll be inducted in is the alcohol of fame
+On the wall of shame
+You fags think it's all a game, 'til I walk a flock of flames
+Off a plank and, tell me what in the fuck are you thinkin'?
+Little gay-lookin' boy
+So gay, I can barely say it with a straight face, lookin' boy (ha-ha!)
+You're witnessin' a mass-occur
+Like you're watching a church gathering take place, lookin' boy
+"Oy vey, that boy's gay!" That's all they say, lookin' boy
+You get a thumbs up, pat on the back
+And a "Way to go" from your label every day, lookin' boy
+Hey, lookin' boy! What you say, lookin' boy?
+I get a "Hell, yeah" from Dre, lookin' boy
+I'ma work for everything I have, never asked nobody for shit
+Get outta my face, lookin' boy!
+Basically, boy, you're never gonna be capable
+Of keepin' up with the same pace, lookin' boy, 'cause-
+I'm beginnin' to feel like a Rap God, Rap God
+All my people from the front to the back nod, back nod
+The way I'm racin' around the track, call me NASCAR, NASCAR
+Dale Earnhardt of the trailer park, the White Trash God
+Kneel before General Zod
+This planet's Krypton-, no, Asgard, Asgard
+So you'll be Thor and I'll be Odin
+You rodent, I'm omnipotent
+Let off, then I'm reloadin'
+Immediately with these bombs I'm totin'
+And I should not be woken
+I'm the walkin' dead, but I'm just a talkin' head, a zombie floatin'
+But I got your mom deep-throatin'
+I'm out my Ramen Noodle
+We have nothin' in common, poodle
+I'm a Doberman, pinch yourself in the arm and pay homage, pupil
+It's me, my honesty's brutal
+But it's honestly futile if I don't utilize what I do though
+For good at least once in a while
+So I wanna make sure somewhere in this chicken scratch I scribble and doodle enough rhymes
+To maybe try to help get some people through tough times
+But I gotta keep a few punchlines
+Just in case 'cause even you unsigned
+Rappers are hungry lookin' at me like it's lunchtime
+I know there was a time where once I
+Was king of the underground
+But I still rap like I'm on my Pharoahe Monch grind
+So I crunch rhymes, but sometimes when you combine
+Appeal with the skin color of mine
+You get too big and here they come tryin'
+To censor you like that one line
+I said on "I'm Back" from The Mathers LP 1 when I
+Tried to say I'll take seven kids from Columbine
+Put 'em all in a line, add an AK-47, a revolver and a .9
+See if I get away with it now that I ain't as big as I was, but I'm
+Morphin' into an immortal, comin' through the portal
+You're stuck in a time warp from 2004 though
+And I don't know what the fuck that you rhyme for
+You're pointless as Rapunzel with fuckin' cornrows
+You write normal? Fuck being normal!
+And I just bought a new raygun from the future
+Just to come and shoot ya, like when Fabolous made Ray J mad
+'Cause Fab said he looked like a fag at Mayweather's pad
+Singin' to a man while he played piano
+Man, oh man, that was a 24-7 special on the cable channel
+So Ray J went straight to the radio station
+The very next day, "Hey Fab, I'ma kill you!"
+Lyrics comin' at you at supersonic speed (J.J. Fad)
+Uh, summa-lumma, dooma-lumma, you assumin' I'm a human
+What I gotta do to get it through to you I'm superhuman?
+Innovative and I'm made of rubber so that anything
+You say is ricochetin' off of me, and it'll glue to you and
+I'm devastating, more than ever demonstrating
+How to give a motherfuckin' audience a feeling like it's levitating
+Never fading, and I know the haters are forever waiting
+For the day that they can say I fell off, they'll be celebrating
+'Cause I know the way to get 'em motivated
+I make elevating music, you make elevator music
+"Oh, he's too mainstream"
+Well, that's what they do when they get jealous, they confuse it
+"It's not hip-hop, it's pop, " 'cause I found a hella way to fuse it
+With rock, shock rap with Doc
+Throw on "Lose Yourself" and make 'em lose it
+I don't know how to make songs like that
+I don't know what words to use
+Let me know when it occurs to you
+While I'm rippin' any one of these verses that versus you
+It's curtains, I'm inadvertently hurtin' you
+How many verses I gotta murder to
+Prove that if you were half as nice, your songs you could sacrifice virgins too?
+Ugh, school flunky, pill junkie
+But look at the accolades these skills brung me
+Full of myself, but still hungry
+I bully myself 'cause I make me do what I put my mind to
+And I'm a million leagues above you
+Ill when I speak in tongues, but it's still tongue-in-cheek, fuck you
+I'm drunk, so, Satan, take the fucking wheel
+I'ma sleep in the front seat
+Bumpin' Heavy D and the Boyz, still "Chunky but Funky"
+But in my head, there's something I can feel tugging and struggling
+Angels fight with devils and here's what they want from me
+They're askin' me to eliminate some of the women hate
+But if you take into consideration the bitter hatred
+I have, then you may be a little patient
+And more sympathetic to the situation
+And understand the discrimination
+But fuck it, life's handin' you lemons? Make lemonade then!
+But if I can't batter the women
+How the fuck am I supposed to bake them a cake then?
+Don't mistake him for Satan; it's a fatal mistake
+If you think I need to be overseas and take a vacation
+To trip a broad, and make her fall on her face and
+Don't be a retard, be a king? Think not
+Why be a king when you can be a god?
+Lyrics
+I can swallow a bottle of alcohol and I'll feel like Godzilla
+Better hit the deck like the card dealer
+My whole squad's in here, walkin' around the party
+A cross between a zombie apocalypse and B-Bobby, "The
+Brain" Heenan which is probably the same reason I wrestle with mania
+Shady's in this bitch, I'm posse'd up
+Consider it to cross me a costly mistake
+If they sleepin' on me, the hoes better get insomnia, ADHD, Hydroxycut
+Pass the Courvoisi' (hey, hey)
+In AA, with an AK, melee, finna set it like a playdate
+Better vacate, retreat like a vacay, mayday (ayy)
+This beat is cray-cray, Ray J, H-A-H-A-H-A
+Laughin' all the way to the bank, I spray flames
+They cannot tame or placate the (ayy)
+Monster
+You get in my way? I'ma feed you to the monster (yeah)
+I'm normal during the day, but at night turn to a monster (yeah)
+When the moon shines like Ice Road Truckers
+I look like a villain outta those blockbusters
+Godzilla, fire spitter, monster
+Blood on the dance floor, and on the Louis V carpet
+Fire, Godzilla, fire, monster
+Blood on the dance floor, and on the Louis V carpet
+I'm just a product of Slick Rick, at Onyx, told 'em lick the balls
+Had 'em just appalled at so many things that pissed 'em off
+It's impossible to list 'em all
+And in the midst of all this
+I'm in a mental hospital with a crystal ball
+Tryna see, will I still be like this tomorrow?
+Risperdal, voices whisper
+My fist is balled back up against the wall, pencil drawn
+This is just the song to go ballistic on
+You just pulled a pistol on the guy with the missile launcher
+I'm just a Loch Ness, the mythological
+Quick to tell a bitch screw off like a fifth of Vodka
+When you twist the top of the bottle, I'm a
+Monster
+You get in my way? I'ma feed you to the monster (yeah)
+I'm normal during the day, but at night turn to a monster (yeah)
+When the moon shines like Ice Road Truckers
+I look like a villain outta those blockbusters
+Godzilla, fire spitter, monster
+Blood on the dance floor, and on the Louis V carpet
+Fire, Godzilla, fire, monster
+Blood on the dance floor, and on the Louis V carpet
+If you never gave a damn, raise your hand
+'Cause I'm about to set trip, vacation plans
+I'm on point, like my index is, so all you will ever get is
+The motherfuckin' finger (finger), prostate exam ('xam)
+How can I have all these fans and perspire?
+Like a liar's pants, I'm on fire
+And I got no plans to retire and I'm still the man you admire
+These chicks are spazzin' out, I only get more handsome and flier
+I got 'em passin' out like what you do, when you hand someone flyers
+What goes around, comes around just like the blades on a chainsaw
+'Cause I caught the flaps of my dollar stack
+Right off the bat like a baseball, like Kid Ink
+Bitch, I got them racks with so much ease that they call me Diddy
+'Cause I make bands and I call getting cheese a cakewalk (cheesecake!)
+Bitch, I'm a player, I'm too motherfuckin' stingy for Cher
+Won't even lend you an ear, ain't even pretendin' to care
+But I tell a bitch I'll marry her, if she'll bury her
+Face on my genital area, the original Richard Ramirez
+Christian Rivera
+'Cause my lyrics never sit well, so they wanna give me the chair
+Like a paraplegic, and it's scary, call it Harry Carry
+'Cause every Tom and Dick and Harry
+Carry a Merriam motherfuckin' dictionary
+Got 'em swearin' up and down, they can't spit, this shit's hilarious
+It's time to put these bitches in the obituary column
+We wouldn't see eye to eye with a staring problem
+Get the shaft like a steering column (monster)
+Trigger happy, pack heat, but it's black ink
+Evil half of the Bad Meets Evil
+That means take a back seat
+Take it back to Fat Beats with a maxi single
+Look at my rap sheets, what attracts these people
+Is my gangster, bitch, like Apache with a catchy jingle
+I stack these chips, you barely got a half-eaten Cheeto
+Fill 'em with the venom, and eliminate 'em
+Other words, I Minute Maid 'em
+I don't wanna hurt 'em, but I did, I'm in a fit of rage
+I'm murderin' again, nobody will evade
+I'm finna kill 'em, I'm dumpin' their fuckin' bodies in the lake
+Obliteratin' everything, incinerate a renegade
+I'm here to make anybody who want it with the pen afraid
+But don't nobody want it but they're gonna get it anyway
+'Cause I'm beginnin' to feel like I'm mentally ill
+I'm Atilla, kill or be killed, I'm a killer bee, the vanilla gorilla
+You're bringin' the killer within me, out of me
+You don't want to be the enemy of the demon
+Who went in me, and be on the receiving of me, what stupidity it'd be
+Every bit of me is the epitome of a spitter
+When I'm in the vicinity, motherfucker, you better duck
+Or you finna be dead the minute you run into me
+A hundred percent of you is a fifth of a percent of me
+I'm 'bout to fuckin' finish you bitch, I'm unfadable
+You wanna battle, I'm available, I'm blowin' up like an inflatable
+I'm undebatable, I'm unavoidable, I'm unevadable
+I'm on the toilet bowl
+I got a trailer full of money and I'm paid in full
+I'm not afraid to pull a-, man, stop
+Look what I'm plannin' (haha)
+Lyrics
+What would I do without your smart mouth?
+Drawing me in, and you kicking me out
+You've got my head spinning, no kidding, I can't pin you down
+What's going on in that beautiful mind?
+I'm on your magical mystery ride
+And I'm so dizzy, don't know what hit me, but I'll be alright
+My head's under water
+But I'm breathing fine
+You're crazy and I'm out of my mind
+'Cause all of me
+Loves all of you
+Love your curves and all your edges
+All your perfect imperfections
+Give your all to me
+I'll give my all to you
+You're my end and my beginning
+Even when I lose, I'm winning
+'Cause I give you all of me
+And you give me all of you, oh-oh
+How many times do I have to tell you?
+Even when you're crying, you're beautiful too
+The world is beating you down, I'm around through every mood
+You're my downfall, you're my muse
+My worst distraction, my rhythm and blues
+I can't stop singing, it's ringing in my head for you
+My head's under water
+But I'm breathing fine
+You're crazy and I'm out of my mind
+'Cause all of me
+Loves all of you
+Love your curves and all your edges
+All your perfect imperfections
+Give your all to me
+I'll give my all to you
+You're my end and my beginning
+Even when I lose, I'm winning
+'Cause I give you all of me
+And you give me all of you, oh-oh
+Give me all of you, oh
+Cards on the table, we're both showing hearts
+Risking it all, though it's hard
+'Cause all of me
+Loves all of you
+Love your curves and all your edges
+All your perfect imperfections
+Give your all to me
+I'll give my all to you
+You're my end and my beginning
+Even when I lose, I'm winning
+'Cause I give you all of me
+And you give me all of you
+I give you all of me
+And you give me all of you, oh-oh
+Lyrics
+Hank, Beugard, Big Sur
+Y'all know how this - go, you know
+All eyes on me, OG
+Roll up in the club and shit (is that right?)
+All eyes on me
+All eyes on me
+Ay you know what?
+I bet you got it twisted, you don't know who to trust
+So many player-hatin' - tryna sound like us
+Say they ready for the funk, but I don't think they knowin'
+Straight to the depths of Hell is where them cowards goin'
+Well, are you still down? Holla when you see me
+And let these devils be sorry for the day they finally freed me
+I got a caravan of - every time we ride
+Hittin' - up when we pass by
+Until I die, live the life of a boss player, 'cause even when I'm high
+F- with me and get crossed later, the futures in my eyes
+'Cause all I want is cash and thangs
+A five-double-oh Benz, flauntin' flashy rings
+Uhh, - pursue me like a dream
+Been known to disappear before your eyes just like a dope fiend
+It seems, my main thing was to be major paid
+The game sharper than a - razor blade
+Say money bring - bring lies
+One - gettin' jealous and - die
+Depend on me like the first and fifteenth
+They might hold me for a second, but these punks won't get me
+We got four niggas in low riders and ski masks
+Screamin', "Thug Life" every time they pass, all eyes on me
+Live the life of a thug - until the day I die
+Live the life of a boss player
+All eyes on me
+All eyes on me
+Live the life of a thug - until the day I die
+Live the life of a boss player 'cause even gettin' high
+Hey, to my - 'Pac
+So much trouble in the world
+Can't nobody feel your pain
+The world's changin' everyday, time's movin' fast
+My girl said I need a raise, how long will she last?
+I'm caught between my woman and my pistol and my chips
+Triple beam, got some smokers on, whistle as I dip
+I'm lost in the land with no plan, livin' life flawless
+Crime boss, contraband, let me toss this
+Mediocre's got a lot of nerve
+Let my bucket swerve, I'm takin' off from the curb
+The nervousness neglect make me pack a TEC
+Devoted to servin' this Moët and pay checks
+Like Akai satellite - I'm forever ballin'
+It ain't right: parasites, triggers, and fleas crawlin'
+Sucker, duck and get busted, no emotion
+My devotion is handlin' my business -keep on coastin'
+Where you goin'? I been there, came back as lonely, homie
+Steady flowin' against the grain, - still don't know me
+It's about the money in this rap shit, this crap shit
+It ain't funny - don't even know how to act, shit
+What can I do? What can I say? Is there another way?
+Blunts and gin all day, 24 parlay
+My little homie G, can't you see I'm buster-free?
+- Just can't stand me, all eyes on me
+Live the life of a thug - until the day I die
+Live the life of a boss player
+All eyes on me
+All eyes on me
+Live the life of a thug - until the day I die
+Live the life of a boss player 'cause even gettin' high
+All eyes on me
+The feds is watchin' - plottin' to get me
+Will I survive? Will I die? Come on, let's picture the possibility
+Givin' me charges, lawyers makin' a grip
+I told the judge I was raised wrong and that's why I blaze
+Was hyper as a kid, cold as a teenager
+On my mobile, callin' big shots on the scene major
+Packin' hundreds in my drawers - the law
+Passion, I'm livin' rough and raw
+Catchin' cases at a fast rate, ballin' in the fast lane
+Hustle 'til the mornin', never stopped until the cash came
+Live my life as a thug - until the day I die
+Live my life as a boss player, 'cause even gettin' high
+These - got me tossin'
+I put the top down, now it's time to floss my-
+Keep your head up - make these - suffer
+Up in the Benz, burnin' rubber
+The money is mandatory, the hoes is for the stress
+This criminal lifestyle, equipped with a bulletproof vest
+Make sure your eyes is on the meal ticket, get your money
+Get rich and we'll kick it, all eyes on me
+Live the life of a thug - until the day I die
+Live the life of a boss player
+All eyes on me
+All eyes on me
+Live the life of a thug - until the day I die
+Live the life of a boss player 'cause even gettin' high
+All eyes on me
+Pay attention, my - see how that - go?
+Walk up in this - and it be like, "Bing!"
+Live the life of a thug - until the day I die
+Live the life of a boss player 'cause even gettin' high
+I got bustas, hoes, and police watchin' a nigga, you know?
+Live the life of a thug - until the day I die
+Live the life of a boss player, all eyes on me
+He he he, it's like what they think?
+I'm walkin' around with some ki's in my pocket or somethin'
+They think I'm goin' back to jail, they really on that dope
+Lyrics
+Look
+If you had
+One shot
+Or one opportunity
+To seize everything you ever wanted
+In one moment
+Would you capture it
+Or just let it slip?
+Yo
+His palms are sweaty, knees weak, arms are heavy
+There's vomit on his sweater already, mom's spaghetti
+He's nervous, but on the surface he looks calm and ready
+To drop bombs, but he keeps on forgettin'
+What he wrote down, the whole crowd goes so loud
+He opens his mouth, but the words won't come out
+He's chokin', how, everybody's jokin' now
+The clocks run out, times up, over, blaow
+Snap back to reality, ope there goes gravity
+Ope, there goes Rabbit, he choked
+He's so mad, but he won't give up that easy? No
+He won't have it, he knows his whole back's to these ropes
+It don't matter, he's dope, he knows that, but he's broke
+He's so stagnant, he knows, when he goes back to this mobile home, that's when it's
+Back to the lab again, yo, this whole rhapsody
+Better go capture this moment and hope it don't pass him
+You better lose yourself in the music, the moment
+You own it, you better never let it go
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime
+You better lose yourself in the music, the moment
+You own it, you better never let it go
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime
+You better
+His soul's escaping, through this hole that is gaping
+This world is mine for the taking
+Make me king, as we move toward a New World Order
+A normal life is borin', but super stardom's close to post mortem
+It only grows harder, only grows hotter
+He blows, it's all over, these hoes is all on him
+Coast to coast shows, he's known as the Globetrotter
+Lonely roads, God only knows, he's grown farther from home, he's no father
+He goes home and barely knows his own daughter
+But hold your nose 'cause here goes the cold water
+These hoes don't want him no mo', he's cold product
+They moved on to the next schmo who flows, he nose dove and sold nada
+So the soap opera is told and unfolds, I suppose it's old partna, but the beat goes on
+Da-da-dum, da-dum, da-da
+You better lose yourself in the music, the moment
+You own it, you better never let it go
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime
+You better lose yourself in the music, the moment
+You own it, you better never let it go
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime
+You better
+No more games, I'ma change what you call rage
+Tear this motherfuckin' roof off like two dogs caged
+I was playin' in the beginnin', the mood all changed
+I been chewed up and spit out and booed off stage
+But I kept rhymin' and stepped right in the next cypher
+Best believe somebody's payin' the Pied Piper
+All the pain inside amplified by the
+Fact that I can't get by with my nine to
+Five and I can't provide the right type of
+Life for my family 'cause man, these goddamn food stamps don't buy diapers
+And its no movie, there's no Mekhi Phifer
+This is my life and these times are so hard
+And it's getting even harder tryna feed and water my seed, plus
+Teeter totter, caught up between bein' a father and a prima donna
+Baby mama drama, screamin' on her, too much
+For me to wanna stay in one spot, another day of monotony's
+Gotten me to the point, I'm like a snail I've got
+To formulate a plot or end up in jail or shot
+Success is my only motherfuckin' option, failure's not
+Mom, I love you, but this trailer's got to go, I cannot grow old in Salem's Lot
+So here I go, is my shot
+Feet, fail me not, this may be the only opportunity that I got
+You better lose yourself in the music, the moment
+You own it, you better never let it go
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime
+You better lose yourself in the music, the moment
+You own it, you better never let it go
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime
+You better
+You can do anything you set your mind to, man
+Yeah, I know sometimes
+Things may not always make sense to you right now
+But hey, what'd daddy always tell you?
+Straighten up, little soldier
+Stiffen up that upper lip
+What you cryin' about?
+You got me
+Hailie, I know you miss your mom, and I know you miss your dad
+When I'm gone, but I'm tryna give you the life that I never had
+I can see you're sad even when you smile, even when you laugh
+I can see it in your eyes, deep inside, you wanna cry
+'Cause you're scared, I ain't there? Daddy's with you in your prayers
+No more crying, wipe them tears, daddy's here, no more nightmares
+We gon' pull together through it, we gon' do it
+Lainie, uncle's crazy, ain't he? Yeah, but he loves you, girl, and you better know it
+We're all we got in this world, when it spins, when it swirls
+When it whirls, when it twirls, two little beautiful girls
+Lookin' puzzled, in a daze, I know it's confusing you
+Daddy's always on the move, mama's always on the news
+I try to keep you sheltered from it, but somehow, it seems
+The harder that I try to do that, the more it backfires on me
+All the things growin' up as daddy that he had to see
+Daddy don't want you to see, but you see just as much as he did
+We did not plan it to be this way, your mother and me
+But things have got so bad between us
+I don't see us ever being together ever again
+Like we used to be when we was teenagers
+But then, of course, everything always happens for a reason
+I guess it was never meant to be
+But it's just something we have no control over, and that's what destiny is
+But no more worries, rest your head and go to sleep
+Maybe one day, we'll wake up, and this will all just be a dream
+Now hush, little baby, don't you cry
+Everything's gonna be alright
+Stiffen that upper lip up, little lady, I told ya
+Daddy's here to hold ya through the night
+I know mommy's not here right now, and we don't know why
+We feel how we feel inside
+It may seem a little crazy, pretty baby
+But I promise mama's gon' be alright
+Huh, it's funny
+I remember back one year when daddy had no money
+Mommy wrapped the Christmas presents up and stuck 'em under the tree
+And said some of 'em were from me, 'cause daddy couldn't buy 'em
+I'll never forget that Christmas, I sat up the whole night crying
+'Cause daddy felt like a bum, see, daddy had a job
+But his job was to keep the food on the table for you and mom
+And at the time, every house that we lived in
+Either kept gettin' broken into and robbed
+Or shot up on the block
+And your mom was savin' money for you in a jar
+Tryna start a piggy bank for you so you could go to college
+Almost had a thousand dollars 'til someone broke in and stole it
+And I know it hurt so bad, it broke your mama's heart
+And it seemed like everything was just startin' to fall apart
+Mom and dad was arguin' a lot
+So mama moved back on to Chalmers in a flat one-bedroom apartment
+And dad moved back to the other side of 8 Mile on Novara
+And that's when daddy went to California with his CD
+And met Dr. Dre, and flew you and mama out to see me
+But daddy had to work, you and mama had to leave me
+Then you started seeing daddy on the TV, and mama didn't like it
+And you and Lainie were too young to understand it
+Papa was a rolling stone, mama developed a habit
+And it all happened too fast for either one of us to grab it
+I'm just sorry you were there and had to witness it first-hand
+'Cause all I ever wanted to do was just make you proud
+Now I'm sittin' in this empty house
+Just reminiscin', lookin' at your baby pictures, it just trips me out
+To see how much you both have grown, it's almost like you're sisters now
+Wow, guess you pretty much are, and daddy's still here
+Lainie, I'm talkin' to you too, daddy's still here
+I like the sound of that, yeah, it's got a ring to it, don't it?
+Shh, mama's only gone for the moment
+Now hush, little baby, don't you cry
+Everything's gonna be alright
+Stiffen that upper lip up, little lady, I told ya
+Daddy's here to hold ya through the night
+I know mommy's not here right now, and we don't know why
+We feel how we feel inside
+It may seem a little crazy, pretty baby
+But I promise mama's gon' be alright
+And if you ask me to, daddy's gonna buy you a mockingbird
+I'ma give you the world
+I'ma buy a diamond ring for you, I'ma sing for you
+I'll do anything for you to see you smile
+And if that mockingbird don't sing, and that ring don't shine
+I'ma break that birdie's neck
+I'll go back to the jeweler who sold it to ya
+And make him eat every carat, don't fuck with dad
