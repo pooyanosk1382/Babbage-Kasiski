@@ -8,8 +8,9 @@ At different points in the encryption process, the cipher uses a different alpha
 The alphabet used at each point depends on a repeating keyword.
 
 __Encryption:__
+
 The plaintext(P) and key(K) are added modulo 26.
-E \index{i} = (P \index{i} + K \index{i}) mod 26
+E \index{i} = (P /index{i} + K \index{i}) mod 26
 
 Decryption
 Di = (Ei - Ki + 26) mod 26
