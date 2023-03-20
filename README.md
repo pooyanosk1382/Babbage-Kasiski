@@ -10,9 +10,10 @@ The alphabet used at each point depends on a repeating keyword.
 __Encryption:__
 
 The plaintext(P) and key(K) are added modulo 26.
-E \printindex{i} = (P /printindex{i} + K \index{i}) mod 26
+Ei = (Pi + Ki) mod 26
 
-Decryption
+__Decryption:__
+
 Di = (Ei - Ki + 26) mod 26
 
 ## What is Babbage-Kasiski test?
